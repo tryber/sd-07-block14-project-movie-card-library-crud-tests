@@ -1,9 +1,9 @@
 {
-  "1 - Rotas: O componente App deve renderizar BrowserRouter": 0,
-  "2 - Movie list: Ao ser montado, MovieList deve fazer uma requisição para buscar a lista de filmes a ser renderizada": 0,
-  "3 - MovieCard: deve possuir um link para a página de detalhes de um filme": 0,
-  "4 - MovieDetails: deve fazer uma requisição para buscar o filme que deverá ser renderizado": 0,
-  "5 - EditMovie: deve realizar uma requisição para buscar o filme que será editado": 0,
-  "6 - NewMovie: Na página inicial, deve haver um link para criar novos cartões.": 0,
-  "Bônus: Adicione um link para deletar um cartão em MovieDetails": 0
+  "1 - Rotas: O componente App deve renderizar BrowserRouter": 7858,
+  "2 - Movie list: Ao ser montado, MovieList deve fazer uma requisição para buscar a lista de filmes a ser renderizada": 7859,
+  "3 - MovieCard: deve possuir um link para a página de detalhes de um filme": 7860,
+  "4 - MovieDetails: deve fazer uma requisição para buscar o filme que deverá ser renderizado": 7861,
+  "5 - EditMovie: deve realizar uma requisição para buscar o filme que será editado": 7862,
+  "6 - NewMovie: Na página inicial, deve haver um link para criar novos cartões.": 7863,
+  "Bônus: Adicione um link para deletar um cartão em MovieDetails": 7864
 }
