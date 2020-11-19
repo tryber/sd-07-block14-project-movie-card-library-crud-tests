@@ -1,0 +1,45 @@
+{
+  "project": {
+    "name": "tryber/sd-0x-block14-project-movie-card-library-crud",
+    "description": "Projeto de Movie Cards CRUD",
+    "enabled": true,
+    "deadline": "2020-05-18 17:10:00",
+    "requirements": [
+      {
+        "description": "1 - Rotas: O componente App deve renderizar BrowserRouter",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "2 - Movie list: Ao ser montado, MovieList deve fazer uma requisição para buscar a lista de filmes a ser renderizada",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "3 - MovieCard: deve possuir um link para a página de detalhes de um filme",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "4 - MovieDetails: deve fazer uma requisição para buscar o filme que deverá ser renderizado",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "5 - EditMovie: deve realizar uma requisição para buscar o filme que será editado",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "6 - NewMovie: Na página inicial, deve haver um link para criar novos cartões.",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Bônus: Adicione um link para deletar um cartão em MovieDetails",
+        "enabled": true,
+        "bonus": true
+      }
+    ]
+  }
+}
